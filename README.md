@@ -35,19 +35,12 @@ Desarrollador de software enfocado en construir **sistemas backend eficientes, l
 
 ---
 
-### 🛡️ Experiencia en Soporte e Infraestructura IT
+### 💼 Experiencia y Colaboraciones
+
+**Colaborador Backend — Sistema Administrativo y Contable (`Trans-Services-Backend`)**
+- ⚙️ **Desarrollo de API REST:** Implementación de rutas, controladores y *middlewares* en **JavaScript** con **Node.js** y **Express** para la gestión operativa y de nómina.
+- 🗄️ **Persistencia de Datos:** Modelado relacional e integración con base de datos mediante **Prisma ORM** y **PostgreSQL**.
 
 **Pasante de Soporte Técnico e Infraestructura — Gobernación del Estado Lara (OTIC)**
-- 🔍 **Diagnóstico y Mantenimiento:** Revisión preventiva y correctiva de equipos de escritorio, respaldo de información y automatización de reportes de salud de discos (métricas S.M.A.R.T.) mediante scripts en **Windows PowerShell**.
+- 🔍 **Diagnóstico y Mantenimiento:** Revisión preventiva y correctiva de equipos de escritorio, respaldo de información y automatización de reportes de salud de almacenamiento (métricas S.M.A.R.T.).
 - 🌐 **Conectividad y Servicios Locales:** Verificación de puntos de red, diagnóstico de conectividad y revisión de disponibilidad de servicios internos en LAN (HTTP/FTP) y seguridad básica de estaciones de trabajo.
-
----
-
-<div align="center">
-
-### 📊 Actividad en GitHub
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=jaberus19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaberus19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-</div>
