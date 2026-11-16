@@ -18,7 +18,7 @@
 Desarrollador de software enfocado en construir **sistemas backend eficientes, limpios y bien estructurados**. Me gusta entender cómo funcionan las cosas por dentro, desde las consultas a la base de datos hasta el sistema operativo.
 
 - ⚙️ **Desarrollo Backend:** Creación de APIs REST y comunicación en tiempo real mediante **WebSockets** con **Rust (Actix Web)** y **Node.js (Express)**.
-- 🔌 **Sistemas Embebidos (Novato / Entusiasta):** Aprendiendo y experimentando con programación a bajo nivel (`no_std`) en **Rust** sobre microcontroladores **ARM Cortex-M** y prácticas con **Arduino**.
+- 🔌 **Sistemas Embebidos y Robótica (Entornos Virtuales):** Prácticas y estudios de programación *bare-metal* (`no_std`) en **Rust** y **C/C++** sobre microcontroladores **ARM Cortex-M** y **Arduino** mediante emuladores y simuladores de hardware.
 - 🛠️ **Soporte Técnico e Infraestructura IT:** Experiencia práctica en diagnóstico y mantenimiento de hardware, automatización de revisiones con scripts, verificación de conectividad y servicios básicos en red local (LAN) y gestión de estaciones de trabajo.
 
 ---
@@ -30,7 +30,7 @@ Desarrollador de software enfocado en construir **sistemas backend eficientes, l
 | **Lenguajes** | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
 | **Backend & APIs** | ![Actix Web](https://img.shields.io/badge/Actix_Web-000000?style=flat-square&logo=rust&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) ![Tokio](https://img.shields.io/badge/Tokio-000000?style=flat-square&logo=rust&logoColor=white) |
 | **Bases de Datos** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **Embebidos (Aprendizaje)** | ![ARM Cortex-M](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=flat-square&logo=arm&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![OpenOCD](https://img.shields.io/badge/OpenOCD_%2F_GDB-2E3440?style=flat-square&logo=gnu&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
+| **Embebidos & Hardware** | ![ARM Cortex-M](https://img.shields.io/badge/ARM%20Cortex--M-0091BD?style=flat-square&logo=arm&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![QEMU / Wokwi](https://img.shields.io/badge/QEMU%20%2F%20Wokwi-FF6600?style=flat-square&logo=qemu&logoColor=white) |
 | **Sistemas & DevOps** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white) ![Bash](https://img.shields.io/badge/Bash%20%2F%20Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
 
 ---
@@ -49,10 +49,10 @@ Desarrollador de software enfocado en construir **sistemas backend eficientes, l
     </td>
     <td width="50%" valign="top">
       <h4>🔌 <a href="https://github.com/jaberus19/rust_embedded_code">rust_embedded_code</a></h4>
-      <p>Prácticas y estudios de programación <i>bare-metal</i> (<code>#![no_std]</code>) en <b>Rust</b> para microcontroladores <b>ARM Cortex-M0+</b>.</p>
+      <p>Prácticas de programación <i>bare-metal</i> (<code>#![no_std]</code>) en <b>Rust</b> para microcontroladores <b>ARM Cortex-M0+</b> en entornos virtuales.</p>
       <ul>
-        <li>Configuración directa de relojes internos (RCC) y pines GPIO en STM32L0x1.</li>
-        <li>Depuración con OpenOCD/GDB y simulación en Wokwi.</li>
+        <li>Configuración directa de relojes internos (RCC) y registros GPIO.</li>
+        <li>Validación y depuración en emuladores y simuladores de hardware (<b>QEMU</b> / <b>Wokwi</b>).</li>
       </ul>
     </td>
   </tr>
