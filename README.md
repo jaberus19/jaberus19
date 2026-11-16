@@ -35,12 +35,44 @@ Desarrollador de software enfocado en construir **sistemas backend eficientes, l
 
 ---
 
-### 💼 Experiencia y Colaboraciones
+### 📂 Desarrollo y Colaboraciones en Código
 
-**Colaborador Backend — Sistema Administrativo y Contable (`Trans-Services-Backend`)**
-- ⚙️ **Desarrollo de API REST:** Implementación de rutas, controladores y *middlewares* en **JavaScript** con **Node.js** y **Express** para la gestión operativa y de nómina.
-- 🗄️ **Persistencia de Datos:** Modelado relacional e integración con base de datos mediante **Prisma ORM** y **PostgreSQL**.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ <a href="https://github.com/jaberus19/api-actix-web">api-actix-web</a></h4>
+      <p>Microservicio en <b>Rust (Actix Web)</b> para notificaciones en tiempo real mediante <b>WebSockets</b> y consultas sobre PostgreSQL.</p>
+      <ul>
+        <li>Gestión de sesiones concurrentes y despacho segmentado por roles.</li>
+        <li>Worker asíncrono en Tokio con SQLx.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔌 <a href="https://github.com/jaberus19/rust_embedded_code">rust_embedded_code</a></h4>
+      <p>Prácticas y estudios de programación <i>bare-metal</i> (<code>#![no_std]</code>) en <b>Rust</b> para microcontroladores <b>ARM Cortex-M0+</b>.</p>
+      <ul>
+        <li>Configuración directa de relojes internos (RCC) y pines GPIO en STM32L0x1.</li>
+        <li>Depuración con OpenOCD/GDB y simulación en Wokwi.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>⚙️ <a href="https://github.com/RitoTorri/Trans-Services-Backend">Trans-Services-Backend</a> <sub><i>(Colaboración)</i></sub></h4>
+      <p>Participación en el desarrollo backend para sistema administrativo y contable construido con <b>Node.js</b> y <b>Express</b>.</p>
+      <ul>
+        <li>Implementación de rutas, controladores y <i>middlewares</i> en JavaScript.</li>
+        <li>Integración y modelado relacional con <b>Prisma ORM</b> y PostgreSQL.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-**Pasante de Soporte Técnico e Infraestructura — Gobernación del Estado Lara (OTIC)**
-- 🔍 **Diagnóstico y Mantenimiento:** Revisión preventiva y correctiva de equipos de escritorio, respaldo de información y automatización de reportes de salud de almacenamiento (métricas S.M.A.R.T.).
-- 🌐 **Conectividad y Servicios Locales:** Verificación de puntos de red, diagnóstico de conectividad y revisión de disponibilidad de servicios internos en LAN (HTTP/FTP) y seguridad básica de estaciones de trabajo.
+---
+
+### 🛡️ Experiencia en Soporte e Infraestructura IT
+
+**Soporte Técnico e Infraestructura IT — Gobernación del Estado Lara (OTIC)**
+- 🔍 **Mantenimiento y Diagnóstico de Hardware:** Ejecución de mantenimiento preventivo y correctivo de estaciones de trabajo, respaldo de información, telemetría de componentes vía PowerShell y auditoría de almacenamiento mediante métricas S.M.A.R.T. (Hard Disk Sentinel).
+- 🌐 **Administración de Redes y Servicios LAN:** Verificación de conectividad y cableado estructurado, auditoría de puertos y servicios de red (HTTP/IIS, repositorios FTP internos) y aplicación de directivas de seguridad y control de endpoints.
+- 📋 **Evaluación de Sistemas e Infraestructura ITSM:** Levantamiento de requerimientos operativos y estudio técnico comparativo para la gestión centralizada de inventario e incidencias mediante el despliegue de **GLPI (On-Premise)** en Data Center.
