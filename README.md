@@ -3,7 +3,7 @@
 # Hola, soy Juan Perdomo 👋
 ### Desarrollador Backend • Sistemas Embebidos • Infraestructura IT
 
-📍 **Barquisimeto, Venezuela** | 🎓 **TSU en Informática (IUJO — 99/100)** | 🐧 **Linux Enthusiast**
+📍 **Barquisimeto, Venezuela** | 🎓 **TSU en Informática (IUJO)** | 🐧 **Linux Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-perdomo-44a196416)
 [![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jperdomo@proton.me)
