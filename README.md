@@ -41,10 +41,10 @@ Desarrollador de software enfocado en construir **sistemas backend eficientes, l
   <tr>
     <td width="50%" valign="top">
       <h4>⚡ <a href="https://github.com/jaberus19/api-actix-web">api-actix-web</a></h4>
-      <p>Microservicio en <b>Rust (Actix Web)</b> para notificaciones en tiempo real mediante <b>WebSockets</b> y consultas sobre PostgreSQL.</p>
+      <p>Prototipo y práctica de servicio backend en <b>Rust (Actix Web)</b> para pruebas de notificaciones mediante <b>WebSockets</b> y conexión a PostgreSQL.</p>
       <ul>
-        <li>Gestión de sesiones concurrentes y despacho segmentado por roles.</li>
-        <li>Worker asíncrono en Tokio con SQLx.</li>
+        <li>Implementación de rutas HTTP y canales básicos de comunicación con WebSockets.</li>
+        <li>Consultas y persistencia de datos en PostgreSQL utilizando <b>SQLx</b>.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
